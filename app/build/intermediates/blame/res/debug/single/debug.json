@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zebra_hor.PNG.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-xhdpi\\zebra_hor.PNG"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zebra_hor.PNG.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-xxhdpi\\zebra_hor.PNG"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zebra_hor.PNG.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-mdpi\\zebra_hor.PNG"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zebra_hor.PNG.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\ResetBTfriendlyName\\app\\src\\main\\res\\drawable-hdpi\\zebra_hor.PNG"
+    }
+]

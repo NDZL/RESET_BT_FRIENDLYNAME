@@ -1,0 +1,49 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/tvOutput"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Scan BT Address della printer"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/etPTT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:ems="10"
+            android:text="" />
+
+        <Button
+            android:id="@+id/cputest"
+            android:layout_width="wrap_content"
+            android:layout_height="62dp"
+
+
+            android:background="@android:color/holo_red_light"
+            android:text="RESET PRINTER BT FRIENDLY NAME
+" />
+
+        <Button
+            android:id="@+id/btReboot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:text="Reboot" />
+    </LinearLayout>
+</ScrollView>
